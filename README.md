@@ -36,7 +36,6 @@ Hello! I'm Kha Minh, a passionate developer dedicated to building web applicatio
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhaMinh0709&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📫 Contact
