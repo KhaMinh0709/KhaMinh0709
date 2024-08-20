@@ -32,6 +32,14 @@ Hello! I'm Kha Minh, a passionate developer dedicated to building web applicatio
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) **Postman**: Testing and developing APIs.
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git**: Version control and team collaboration.
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub**: Storing and sharing source code.
+- 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KhaMinh0709&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KhaMinh0709&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 Contact
 - **Email**: nguyenkhaminh9c@gmail.
