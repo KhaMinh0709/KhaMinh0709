@@ -34,8 +34,8 @@ Hello! I'm Kha Minh, a passionate developer dedicated to building web applicatio
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub**: Storing and sharing source code.
 
 ## 📫 Contact
-- **Email**: kha.minh@example.com
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/khaminh)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/khaminh)
+- **Email**: nguyenkhaminh9c@gmail.
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-kh%E1%BA%A3-61a3aa312/))
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/khaminh0709)
 
 Thank you for visiting!
