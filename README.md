@@ -26,13 +26,21 @@ Hello! I'm Kha Minh, a passionate developer dedicated to building web applicatio
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**: A powerful and popular relational database management system.
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL Server**: Microsoft’s robust database management system, well-integrated with other Microsoft products.
 
+### 🤖 AI & Machine Learning
+- ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6C37?style=for-the-badge&logo=ai) **Artificial Intelligence**: Experience in building intelligent systems.
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007396?style=for-the-badge&logo=ml&logoColor=white) **Machine Learning**: Expertise in building predictive models and data analysis.
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-59666C?style=for-the-badge&logo=deep-learning&logoColor=white) **Deep Learning**: Implementing neural networks for complex problem-solving.
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4EA94B?style=for-the-badge&logo=opencv&logoColor=white) **Computer Vision**: Processing and analyzing visual data.
+- ![Image Processing](https://img.shields.io/badge/Image%20Processing-E34F26?style=for-the-badge&logo=image&logoColor=white) **Image Processing**: Techniques for processing digital images.
+- ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-FF5722?style=for-the-badge&logo=pr&logoColor=white) **Pattern Recognition**: Recognizing patterns in data for classification and decision-making.
+
 ### 🛠️ Tools & Environment
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) **IntelliJ IDEA**: A powerful IDE for Java development.
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code**: My primary development environment for front-end projects.
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) **Postman**: Testing and developing APIs.
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git**: Version control and team collaboration.
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub**: Storing and sharing source code.
-- 
+- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) **Google Colab**: A powerful tool for AI and ML development.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhaMinh0709&theme=dark&hide_border=false)<br/>
