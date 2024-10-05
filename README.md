@@ -3,6 +3,8 @@
 ## 📜 Introduction
 Hello! I'm Kha Minh, a passionate developer dedicated to building AI model,web applications and solving complex problems using modern technology. I have experience working with both front-end and back-end, particularly in projects using **React.js** and **Spring Boot**.I have a deep passion for **AI**, **Machine Learning**, and **Deep Learning**. I specialize in **computer vision**, **image processing**, and **pattern recognition**, working on projects that apply cutting-edge technologies to solve real-world problems.
 
+## My website portfolio: https://khaminh.id.vn/
+
 
 ## 💻 Technologies Used
 
